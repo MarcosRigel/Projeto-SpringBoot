@@ -429,3 +429,13 @@
 2022-10-05 20:09:50,130 [Worker-47: Launching userdept - UserdeptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-10-05 20:09:50,135 [Worker-47: Launching userdept - UserdeptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-05 20:09:50,135 [Worker-47: Launching userdept - UserdeptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\ws_aulas\userdept\src\test\resources
+2022-10-05 20:27:49,847 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 20:27:49,849 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-05 20:27:49,852 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-05 20:27:49,858 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 20:27:49,858 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\ws_aulas\userdept\src\test\resources
+2022-10-05 20:32:36,136 [Worker-51: Launching userdept - UserdeptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 20:32:36,138 [Worker-51: Launching userdept - UserdeptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-05 20:32:36,142 [Worker-51: Launching userdept - UserdeptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-05 20:32:36,147 [Worker-51: Launching userdept - UserdeptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 20:32:36,147 [Worker-51: Launching userdept - UserdeptApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\ws_aulas\userdept\src\test\resources
